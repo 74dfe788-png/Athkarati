@@ -1,5 +1,5 @@
 name: athkarati
-description: My App
+description: My Athkar App
 publish_to: 'none'
 version: 1.0.0+1
 environment:
@@ -7,6 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
